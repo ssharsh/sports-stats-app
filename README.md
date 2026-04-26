@@ -1,3 +1,8 @@
+## What this app is about?
+This is a multi-sport analytics app that aggregates player stats from leagues such as the NBA, NFL, and soccer via APIs. It leverages Claude AI to generate insights, comparisons, and dynamic responses based on user queries.
+
+## How to Run It
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
